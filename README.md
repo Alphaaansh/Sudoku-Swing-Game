@@ -9,7 +9,7 @@ A fully functional Sudoku puzzle game built using **Java Swing**
 -  Random puzzle every time
 -  Mouse-based input
 -  Sudoku grid with 3x3 blocks
--  Built with Java 23 + Maven + Swing
+-  Built with Java 23 + Swing
 -  Runs fully offline
 
 ---
