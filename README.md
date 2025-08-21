@@ -23,9 +23,3 @@ A fully functional Sudoku puzzle game built using **Java Swing**
 ---
 
 Made by Alphaaansh
-
----
-## Source Code
-
-- [Main.java](https://github.com/Alphaaansh/Sudoku-Swing-Game/blob/master/src/Main.java)
-- [SudokuUI.java](https://github.com/Alphaaansh/Sudoku-Swing-Game/blob/master/src/SudokuUI.java)
